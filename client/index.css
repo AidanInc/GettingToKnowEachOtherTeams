@@ -1,34 +1,26 @@
-.center{
+
+.center {
     display: block;
     margin-left: auto;
     margin-right: auto;
-}
+    width: 50%;
+  }
 
 
-body{ background-color:wheat;
-
-}
-img{
-    width: 100px;
-    height: auto;
+.assignments{
+  color:orangered;
+  text-decoration-line: underline;
+  padding-left: 70px;
 }
 
-h1{
-    color:royalblue;
-}
+.headings {
+    text-align: center;
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+    width: 50%;
+  }
 
-h2{
-    color:darkcyan;
-}
-
-h3{
-    color: cornflowerblue;
-}
-
-h4{
-    color:crimson;
-}
-
-ul{
-    list-style: square;
-}
+  body{
+    background-color:skyblue;
+  }
