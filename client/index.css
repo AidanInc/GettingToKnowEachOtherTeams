@@ -8,7 +8,7 @@
 
 
 .assignments{
-  color:mediumseagreen;
+  color:orangered;
   text-decoration-line: underline;
   padding-left: 70px;
 }
@@ -22,5 +22,5 @@
   }
 
   body{
-    background-color:slateblue;
+    background-color:skyblue;
   }
